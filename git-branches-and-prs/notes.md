@@ -1,0 +1,3 @@
+- create new branch: git branch <branchname>
+- switch to branch: git switch <branchname>
+- create and switch to branch: git switch -c <branchname>
